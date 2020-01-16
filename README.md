@@ -5,6 +5,9 @@ Models Used:
 2) Inception-ResnetV2
 3) Resnet50
 
-ZSL evaluation done using the concept of Semantic AutoEncoder
 
-Dataset Used: Animals With Attributes (50 classes - 40 training classes, 10 ZSL classes)
+Dataset Used: Animals With Attributes
+
+Results and Inferences are provided in the poster.
+
+For more information refer the report
